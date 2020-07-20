@@ -1,0 +1,13 @@
+C:\Users\nikit\RiderProjects\Life\LifeConsole\bin\Debug\netcoreapp3.1\LifeConsole.exe
+C:\Users\nikit\RiderProjects\Life\LifeConsole\bin\Debug\netcoreapp3.1\LifeConsole.deps.json
+C:\Users\nikit\RiderProjects\Life\LifeConsole\bin\Debug\netcoreapp3.1\LifeConsole.runtimeconfig.json
+C:\Users\nikit\RiderProjects\Life\LifeConsole\bin\Debug\netcoreapp3.1\LifeConsole.runtimeconfig.dev.json
+C:\Users\nikit\RiderProjects\Life\LifeConsole\bin\Debug\netcoreapp3.1\LifeConsole.dll
+C:\Users\nikit\RiderProjects\Life\LifeConsole\bin\Debug\netcoreapp3.1\LifeConsole.pdb
+C:\Users\nikit\RiderProjects\Life\LifeConsole\obj\Debug\netcoreapp3.1\LifeConsole.csprojAssemblyReference.cache
+C:\Users\nikit\RiderProjects\Life\LifeConsole\obj\Debug\netcoreapp3.1\LifeConsole.AssemblyInfoInputs.cache
+C:\Users\nikit\RiderProjects\Life\LifeConsole\obj\Debug\netcoreapp3.1\LifeConsole.AssemblyInfo.cs
+C:\Users\nikit\RiderProjects\Life\LifeConsole\obj\Debug\netcoreapp3.1\LifeConsole.csproj.CoreCompileInputs.cache
+C:\Users\nikit\RiderProjects\Life\LifeConsole\obj\Debug\netcoreapp3.1\LifeConsole.dll
+C:\Users\nikit\RiderProjects\Life\LifeConsole\obj\Debug\netcoreapp3.1\LifeConsole.pdb
+C:\Users\nikit\RiderProjects\Life\LifeConsole\obj\Debug\netcoreapp3.1\LifeConsole.genruntimeconfig.cache

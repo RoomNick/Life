@@ -1,0 +1,9 @@
+C:\Users\nikit\RiderProjects\Life\LifeBL\bin\Debug\netcoreapp3.1\LifeBL.deps.json
+C:\Users\nikit\RiderProjects\Life\LifeBL\bin\Debug\netcoreapp3.1\LifeBL.dll
+C:\Users\nikit\RiderProjects\Life\LifeBL\bin\Debug\netcoreapp3.1\LifeBL.pdb
+C:\Users\nikit\RiderProjects\Life\LifeBL\obj\Debug\netcoreapp3.1\LifeBL.csprojAssemblyReference.cache
+C:\Users\nikit\RiderProjects\Life\LifeBL\obj\Debug\netcoreapp3.1\LifeBL.AssemblyInfoInputs.cache
+C:\Users\nikit\RiderProjects\Life\LifeBL\obj\Debug\netcoreapp3.1\LifeBL.AssemblyInfo.cs
+C:\Users\nikit\RiderProjects\Life\LifeBL\obj\Debug\netcoreapp3.1\LifeBL.csproj.CoreCompileInputs.cache
+C:\Users\nikit\RiderProjects\Life\LifeBL\obj\Debug\netcoreapp3.1\LifeBL.dll
+C:\Users\nikit\RiderProjects\Life\LifeBL\obj\Debug\netcoreapp3.1\LifeBL.pdb
